@@ -4,4 +4,3 @@ Code for SCAResNet. MMDetection based. The paper, SCAResNet: A ResNet Variant Op
 
 The innovation of SCAResNet is reflected in the resnet.py file, which given now.
 
-README details and the total codes will be released by 25/12/2023.
